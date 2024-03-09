@@ -1,5 +1,5 @@
 CompileFlags:
-  Add: [-std=c2x,
+  Add: [-std=c++17,
         -MMD,
         -Os,
         -Wall,
@@ -13,11 +13,10 @@ CompileFlags:
         -Wno-error,
         -Wpedantic,
         -flto=auto,
-        # -fno-builtin,
+        -fno-builtin,
         -fno-delete-null-pointer-checks,
         -fshort-enums,
         -fstack-protector-strong,
-        -mcpu=cortex-m0,
-        -xc
+        -mcpu=cortex-m0
       ]
-  Compiler: arm-none-eabi-gcc
+  Compiler: arm-none-eabi-g++
