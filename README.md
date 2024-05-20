@@ -1,4 +1,4 @@
-Abandoned. See https://github.com/fagci/quansheng-uv-k5-fazotron-fw
+⚠️ Abandoned. See https://github.com/fagci/quansheng-uv-k5-fazotron-fw
 
 Trying to make uv-k5 c++ firmware barebone.
 
