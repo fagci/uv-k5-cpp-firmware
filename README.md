@@ -1,3 +1,5 @@
+Abandoned. See https://github.com/fagci/quansheng-uv-k5-fazotron-fw
+
 Trying to make uv-k5 c++ firmware barebone.
 
 Think, here will be drivers and graphical library to build custom firmwares.
